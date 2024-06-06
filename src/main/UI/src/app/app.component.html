@@ -26,6 +26,12 @@
   <div class="scene" id="welcome">
     <article class="content">
 
+      <div class="welcomeMessagesClass">
+        <p class="presentationTimesClass">Join us at the upcoming live presentation!</p>
+        <p *ngFor="let presentationTime of presentationTimes" class="presentationTimesClass">
+          {{ presentationTime }} |
+        </p>
+      </div>
 
 
       <div class="row">

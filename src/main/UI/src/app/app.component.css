@@ -940,6 +940,12 @@ footer #socialmedia ul li img {
   color: white;
   text-align: center;
   background-color: rgba(6,6,6,0.35);
+  margin: 20px;
+}
+
+.presentationTimesClass {
+  font-size: 18pt;
+  font-weight: 900;
 }
 
 /*# sourceMappingURL=style.css.map */
