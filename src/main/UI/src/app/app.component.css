@@ -936,4 +936,10 @@ footer #socialmedia ul li img {
   border-radius: 50%;
 }
 
+.welcomeMessagesClass {
+  color: white;
+  text-align: center;
+  background-color: gray;
+}
+
 /*# sourceMappingURL=style.css.map */
