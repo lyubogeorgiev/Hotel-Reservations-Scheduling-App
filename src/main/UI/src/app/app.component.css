@@ -939,7 +939,7 @@ footer #socialmedia ul li img {
 .welcomeMessagesClass {
   color: white;
   text-align: center;
-  background-color: gray;
+  background-color: rgba(6,6,6,0.35);
 }
 
 /*# sourceMappingURL=style.css.map */
